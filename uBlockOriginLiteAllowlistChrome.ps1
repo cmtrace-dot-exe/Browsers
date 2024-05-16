@@ -1,6 +1,8 @@
 ############################################################################################################
 ### uBlock Origin Lite for Chrome Configuration Script
-### Mike O'Leary @cmtrace-dot-exe
+### Mike O'Leary 
+###     twitter:    @cmtrace_dot_exe
+###     github:     @cmtrace-dot-exe
 ### Changelog: 	2024-05-16
 ############################################################################################################
 
@@ -18,7 +20,6 @@ treyresearch.net
 wingtiptoys.com
 wideworldimporters.com
 "@ -split "`n" | % {$_.trim()}
-
 
 # Registry key location for uBlock Origin Lite's filtering exemptions
     $key = "HKLM:\SOFTWARE\Policies\Google\Chrome\3rdparty\extensions\ddkjiahejlhfcafbddmgiahcphecmpfh\policy\noFiltering"
