@@ -1,5 +1,5 @@
 ############################################################################################################
-### uBlock Origin Lite for Chrome Allowlist Configuration Script
+### uBlock Origin Lite for Chrome "no filtering" Configuration Script
 ### Mike O'Leary 
 ###     twitter:    @cmtrace_dot_exe
 ###     github:     @cmtrace-dot-exe
